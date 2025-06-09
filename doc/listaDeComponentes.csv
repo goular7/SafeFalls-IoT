@@ -1,0 +1,10 @@
+﻿Nome,Quantidade,Componente
+"U3",1," Arduino Uno R3"
+"U4",1," LCD 16 x 2"
+"Rpot2, RpotSensor de nível , RpotSensor de chuva ",3,"250 kΩ Potenciômetro"
+"R2",1,"220 Ω Resistor"
+"D1",1,"Verde LED"
+"D2",1,"Amarelo LED"
+"D3",1,"Vermelho LED"
+"PIEZO1",1," Piezo"
+"R3, R4, R5",3,"1 kΩ Resistor"
